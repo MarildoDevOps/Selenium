@@ -1,0 +1,6 @@
+#Acessando Ambiente
+Cd C:\Python\Curso_Selenium
+#Criando ambiente virtual
+python -m venv venv
+#ativando ambiente
+source venv/bin
